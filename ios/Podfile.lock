@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - minimize_app (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - minimize_app (from `.symlinks/plugins/minimize_app/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  minimize_app:
+    :path: ".symlinks/plugins/minimize_app/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  minimize_app: 5195326a9325d307daa891410e876a01c34083b0
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
